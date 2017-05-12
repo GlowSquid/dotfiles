@@ -30,4 +30,5 @@ case $session in
     *) exec $1;;
 esac
 
+
 xflux -l 58 -g 5.7 -k 3200
