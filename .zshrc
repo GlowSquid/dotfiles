@@ -1,3 +1,4 @@
+
 export TERM=xterm-256color
 #export TERM=uxterm-256color
 
@@ -25,7 +26,7 @@ alias calc='gnome-calculator'
 alias wget='wget -c'
 alias wttr="curl wttr.in/Stavanger"
 alias moon="curl wttr.in/Moon"
-alias venv="source ~/virtualenv/main/bin/activate"
+alias venvm="source ~/virtualenv/main/bin/activate"
 alias deac="deactivate"
 alias pingg='ping -c 3 www.google.com'
 alias reboot='systemctl reboot'
@@ -33,3 +34,5 @@ alias suspend='systemctl suspend'
 alias cd...='cd ~/'
 alias tn='trans :no'
 alias te='trans :en'
+alias myip='curl https://www.coralbeef.com/ip'
+
