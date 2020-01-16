@@ -4,7 +4,7 @@
 # Dependencies: feh
 #
 
-FOLDER="/home/q/p/Wallpapers"
+FOLDER="~/p/wallpapers"
 DELAY=15
 
 # to make it loop over lines instead of spaces in filenames

@@ -35,7 +35,6 @@ esac
 
 xrdb ~/.Xresources
 xflux -l 58 -g 5.7 -k 3200
-#exec i3 -V >> ~/i3log-$(date +'%F-%k-%M-%S') 2>&1
 dbus-update-activation-environment --systemd DISPLAY
 eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
 export SSH_AUTH_SOCK

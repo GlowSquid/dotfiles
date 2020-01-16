@@ -1,0 +1,21 @@
+# Increase volume
+"amixer set Master 1%+"
+   XF86AudioRaiseVolume
+
+# Decrease volume
+"amixer set Master 1%+"
+   XF86AudioLowerVolume
+
+# Play
+#Mod2 + XF86AudioPlay
+
+# Stop
+#Mod2 + XF86AudioStop
+
+# Prev / Next
+#Mod2 + XF86AudioPrev
+#Mod2 + XF86AudioNext
+
+# Mute
+#Mod2 + XF86AudioMute
+
